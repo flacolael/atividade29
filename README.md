@@ -13,5 +13,5 @@ Disciplina: Programação Web
 
 ## Site publicado
 
-https://github.com/Pedropedropedr/pweb-ts-estruturas/tree/main
+https://github.com/flacolael/atividade29
 
